@@ -1,11 +1,17 @@
-## Projects
+## Projects  
 
-### [Chicago Social Vulnerability Index (SoVI)](https://github.com/alexlamers/chicago-sovi)
-This project analyzes **social vulnerability in Cook County, Illinois**, combining **Census data and R** to better understand how environmental and climate hazards impact different communities.  
+### [Chicago Social Vulnerability Index (SoVI)](https://github.com/alexlamers/chicago-sovi)  
+Built a **social vulnerability index for Cook County, Illinois** using publicly available census data and R. The project demonstrates how vulnerability mapping can inform disaster preparedness and highlight disproportionate impacts on at-risk communities.  
 
-Key features:
-- 📊 **Reproducible workflow** for processing and visualizing vulnerability data.  
-- 🗺️ **High-resolution maps and visualizations** to highlight at-risk census tracts.  
-- ⚡ **Actionable insights** for use in community planning, resilience programming, and equity-focused outreach.  
+**Key features:**  
+- 📊 **Reproducible workflow** for data processing and visualization.  
+- 🔄 **Modular design** adaptable to other counties or states.  
+- 🗺️ **High-resolution maps and visuals** that integrate with climate and hazard datasets.  
 
-This project grew out of my interest in climate resilience and environmental justice and is designed to make complex data easier to use for both decision-makers and communities.
+This project reflects my broader focus on **climate resilience and environmental justice**, with the goal of making complex data **usable for both decision-makers and community members**.  
+
+**Technical Stack:**  
+- **Languages & Tools:** R, RMarkdown, GitHub  
+- **Libraries & Packages:** tidyverse, dplyr, ggplot2, sf, tigris  
+- **GIS & Visualization:** QGIS, ggplot2, tmap  
+- **Data Sources:** U.S. Census (ACS), CDC SoVI indicators  
