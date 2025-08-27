@@ -11,7 +11,7 @@ Built a **social vulnerability index for Cook County, Illinois** using publicly 
 This project reflects my broader focus on **climate resilience and environmental justice**, with the goal of making complex data **usable for both decision-makers and community members**.  
 
 **Technical Stack:**  
-- **Languages & Tools:** R, RMarkdown, GitHub  
-- **Libraries & Packages:** tidyverse, dplyr, ggplot2, sf, tigris  
-- **GIS & Visualization:** QGIS, ggplot2, tmap  
-- **Data Sources:** U.S. Census (ACS), CDC SoVI indicators  
+- **Languages & Tools:** R
+- **Libraries & Packages:** tidyverse, tidycensus, pysch, scales , tigris, sf, ggplot2
+- **GIS & Visualization:** QGIS, ggplot2
+- **Data Sources:** U.S. Census (ACS) 
