@@ -1,4 +1,4 @@
-## Featured Projects
+## Projects
 
 ### [Chicago Social Vulnerability Index (SoVI)](https://github.com/alexlamers/chicago-sovi)
 This project analyzes **social vulnerability in Cook County, Illinois**, combining **Census data and R** to better understand how environmental and climate hazards impact different communities.  
