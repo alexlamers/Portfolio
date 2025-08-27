@@ -1,35 +1,11 @@
-# 🗺  Alex's Portfolio
+## Featured Projects
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+### [Chicago Social Vulnerability Index (SoVI)](https://github.com/alexlamers/chicago-sovi)
+This project analyzes **social vulnerability in Cook County, Illinois**, combining **CDC SoVI data, GIS, and R** to better understand how environmental and climate hazards impact different communities.  
 
-## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+Key features:
+- 📊 **Reproducible workflow** for processing and visualizing vulnerability data.  
+- 🗺️ **High-resolution maps and visualizations** to highlight at-risk census tracts.  
+- ⚡ **Actionable insights** for use in community planning, resilience programming, and equity-focused outreach.  
 
-# Data Engineering
-
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-|(LINK)| 03.2022 | GIS, Census Data, NOAA SLOSH models, R | I conducted a vulnerability assessment of the NE coast of Puerto Rico|
-
-***
-
-# SQL
-
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
-
-
-***
-
-# Python
-
-***
-
-# Tableau
-
-| Project Link | Project Description | Dashboard Link |
-|---|---|---|
+This project grew out of my interest in climate resilience and environmental justice and is designed to make complex data easier to use for both decision-makers and communities.
